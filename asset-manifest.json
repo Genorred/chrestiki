@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chrestiki/static/css/main.af080aed.css",
+    "main.js": "/chrestiki/static/js/main.1ea23b49.js",
+    "static/js/787.e6a8a1e7.chunk.js": "/chrestiki/static/js/787.e6a8a1e7.chunk.js",
+    "static/media/0.png": "/chrestiki/static/media/0.10118f731ac34da1760d.png",
+    "index.html": "/chrestiki/index.html",
+    "main.af080aed.css.map": "/chrestiki/static/css/main.af080aed.css.map",
+    "main.1ea23b49.js.map": "/chrestiki/static/js/main.1ea23b49.js.map",
+    "787.e6a8a1e7.chunk.js.map": "/chrestiki/static/js/787.e6a8a1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af080aed.css",
+    "static/js/main.1ea23b49.js"
+  ]
+}
