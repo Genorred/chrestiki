@@ -1,0 +1,10 @@
+.myButton {
+    width: 10em;
+    height: 3em;
+    background-color: rgb(153, 255, 1);
+    border: 0.3em solid rgb(58, 88, 12);
+    border-radius: 0.5em;
+    box-shadow: 0.1em -0.2em 0.5em;
+    margin: 0.5em;
+    font-weight: 700;
+}

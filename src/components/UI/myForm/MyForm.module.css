@@ -1,0 +1,21 @@
+.myForm {
+    height: 20em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 5em;
+}
+
+.myFormInput {
+    width: 25em;
+    height: 3em;
+    margin: 5em;
+    text-align: center;
+    background-color: greenyellow;
+    border: 0.3em solid rgb(58, 88, 12);
+    border-radius: 0.5em;
+    box-shadow: 0.1em -0.2em 0.5em;
+    margin: 0.5em;
+}

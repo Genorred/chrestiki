@@ -1,0 +1,77 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 4rem;
+    background-color: darkolivegreen;
+    border-bottom: 0.3rem solid rgb(58, 88, 12);
+    box-shadow: 0.1em -0.2em 0.5em;
+}
+
+.link {
+    text-align: center;
+    font-weight: 0.5rem;
+    text-decoration: none;
+    color: chartreuse;
+    width: 300px;
+    height: 1.5rem;
+    background-color: darkolivegreen;
+    border: 0.3rem solid rgb(58, 88, 12);
+    border-radius: 0.5rem;
+}
+.game {
+    padding: 0 150px;
+}
+
+.disabledLink {
+    color:rgb(58, 88, 12);
+}
+
+.leftLink {
+    position: absolute;
+    left: 20vw;
+}
+
+.rightLink {
+    position: absolute;
+    right: 20vw;
+}
+
+@media (max-width: 1630px) {
+    .game {
+        padding: 0 70px;
+    }
+    .link{
+        width: 150px;
+    }
+    .leftLink {
+        position: absolute;
+        left: 5vw;
+    }
+    
+    .rightLink {
+        position: absolute;
+        right: 5vw;
+    }
+    }
+
+@media (max-width: 1100px) {
+.leftLink {
+    position: absolute;
+    left: 5vw;
+}
+
+.rightLink {
+    position: absolute;
+    right: 5vw;
+}
+}
+
+@media (max-width: 580px) {
+    .game {
+        padding: 0 25px;
+    }
+    .link{
+        width: 90px;
+    }
+    }
